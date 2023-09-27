@@ -1,1 +1,5 @@
-print ("Hello World")
+Prova1 = 5
+Prova2 = 10
+Média = (Prova1 + Prova2)/2
+Aprovado = Média >= 7
+print (Aprovado)    
